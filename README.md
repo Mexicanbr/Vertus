@@ -21,8 +21,7 @@ git clone https://github.com/Mexicanbr/Vertus
 cd Vertus
 npm install -r pip.txt
 ```
-edit dulu file data.txt taro querymu
-jalankan bot
+First edit the data.txt file and run your query bot
 ```bash
 python Vertus.py
 ```
