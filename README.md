@@ -1,4 +1,4 @@
-# Vertus Bot Query rewel kalu erorr ambil query baru
+# Vertus Bot Query
 
 Auto Claim for [Vertus Telegram Bot]
 
